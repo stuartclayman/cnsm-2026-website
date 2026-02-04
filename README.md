@@ -1,1 +1,1 @@
-# cnsm-2026-website
+# CNSM 2026 website
