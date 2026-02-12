@@ -68,7 +68,7 @@
   
 - name: Patrons
   link: patrons.html
-  status: enabled
+  status: disabled
   
 - name: Locality
   link: locality.html
