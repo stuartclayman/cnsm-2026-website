@@ -16,7 +16,7 @@
   
 - name: Call for Posters
   link: cfpst.html
-  status: disabled
+  status: enabled
   
 - name: Call for PhD Symposium
   link: cfphd.html
