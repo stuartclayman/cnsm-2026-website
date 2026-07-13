@@ -1,14 +1,22 @@
 - name: Home
   link: index.html
   status: enabled
-  
+
 - name: Committees
   link: committees.html
+  status: enabled
+
+- name: On-going Calls
+  link: ongoing.html
+  status: enabled
+
+- name: Past Calls
+  link: past.html
   status: enabled
   
 - name: Call for Papers
   link: cfp.html
-  status: enabled
+  status: disabled
   
 - name: Authors
   link: authors.html
@@ -16,7 +24,7 @@
   
 - name: Call for Posters
   link: cfpst.html
-  status: enabled
+  status: disabled
   
 - name: Call for PhD Symposium
   link: cfphd.html
@@ -32,7 +40,7 @@
   
 - name: Call for Demos
   link: cfd.html  
-  status: enabled
+  status: disabled
   
 - name: Registration
   link: registration.html
@@ -77,3 +85,4 @@
 - name: About
   link: about.html
   status: enabled
+
