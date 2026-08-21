@@ -20,7 +20,7 @@
   
 - name: Authors
   link: authors.html
-  status: disabled
+  status: enabled
   
 - name: Call for Posters
   link: cfpst.html
