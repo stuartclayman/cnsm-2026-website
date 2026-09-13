@@ -8,7 +8,7 @@
 
 - name: Ongoing Calls
   link: ongoing.html
-  status: enabled
+  status: disabled
 
 - name: Past Calls
   link: past.html
